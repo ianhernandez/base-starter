@@ -1,0 +1,19 @@
+{
+  "name": "base-starter",
+  "version": "1.0.0",
+  "description": "A simple starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianhernandez/base-starter.git"
+  },
+  "author": "Ian Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianhernandez/base-starter/issues"
+  },
+  "homepage": "https://github.com/ianhernandez/base-starter#readme"
+}
